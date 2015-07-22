@@ -12,7 +12,7 @@
 	url = git://git.linphone.org/speex.git
 [submodule "submodules/linphone"]
 	path = submodules/linphone
-	url = git://git.linphone.org/linphone.git
+	url = https://github.com/rmisiak/linphone.git
 [submodule "submodules/cunit"]
 	path = submodules/cunit
 	url = git://git.linphone.org/cunit.git
